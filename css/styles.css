@@ -1,0 +1,20 @@
+h2.intro{
+    text-align: center;
+    color: blanchedalmond;
+
+}
+
+body{
+    background-color: brown;
+    text-align: center;
+}
+
+img.intro{
+    size: 2.5rem;
+    
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: hotpink;
+}
